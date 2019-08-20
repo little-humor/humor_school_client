@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "个人中心",
+  "usingComponents": {
+    "uni-notice-bar": "/components/uni-notice-bar/uni-notice-bar"
+  }
+}
